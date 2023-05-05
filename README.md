@@ -1,4 +1,4 @@
-### Hello, my name is Virgílio Costa and I am a Systems Analysis and Development student.
+### Hello, my name is Virgílio Costa and I am a BackEnd Developer.
 
 ### Welcome to my Github profile!
 
