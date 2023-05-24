@@ -1,6 +1,6 @@
-### Hello, my name is Virgílio Costa and I am a BackEnd Developer.
+### Olá, meu nome é Virgílio Costa e sou um BackEnd Developer.
 
-### Welcome to my Github profile!
+### Bem-vindo(a) ao meu perfil no Github!
 
 <div>
   <a href="https://github.com/virgiliopc">
@@ -8,17 +8,22 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=virgiliopc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-### Technologies:
+### Tecnologias:
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Virgilio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Virgilio-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">    
+  <img align="center" alt="Virgilio-Heroku" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"> 
+  <img align="center" alt="Virgilio-Tomcat" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg">
+  <img align="center" alt="Virgilio-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="Virgilio-Gradle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg">
+    <img align="center" alt="Virgilio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">    
   <img align="center" alt="Virgilio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
   <img align="center" alt="Virgilio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Virgilio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Virgilio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+  <img align="center" alt="Virgilio-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
 </div>
   
-### Contacts:
+### Contatos:
 
 <div>
   <a href="https://instagram.com/virgiliopiresdacosta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
