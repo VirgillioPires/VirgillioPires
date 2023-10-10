@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Snake Game
 
 on:
   schedule: # execute every 12 hours
@@ -10,14 +10,15 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: Virgiliopc
-          svg_out_path: dist/github-contribution-grid-snake.svg
           gif_out_path: dist/github-contribution-grid-snake.gif
-
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          
       - run: git status
       
       - name: Push changes
