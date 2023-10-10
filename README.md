@@ -38,6 +38,6 @@
     <img alingn="center" src="https://profile-counter.glitch.me/Virgiliopc/count.svg" /></p>
   </br>
 
-  ![Snake animation](https://github.com/virgiliopc/virgiliopc/blob/output/github-contribution-grid-snake.svg)
+  <!--![Snake animation](https://github.com/virgiliopc/virgiliopc/blob/output/github-contribution-grid-snake.svg) -->
   
 </div>
