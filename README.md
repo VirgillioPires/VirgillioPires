@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/virgilio-pires-da-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></br>
 
   <br>
-    <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Virgiliopc/count.svg" /></p>
+    <img alingn="center" src="https://profile-counter.glitch.me/Virgiliopc/count.svg" /></p>
   </br>
 
   ![Snake animation](https://github.com/virgiliopc/virgiliopc/blob/output/github-contribution-grid-snake.svg)
