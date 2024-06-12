@@ -37,6 +37,6 @@
     <img alingn="center" src="https://profile-counter.glitch.me/virgilliopires/count.svg" /></p>
   </br>
 
-  ![Snake animation](https://github.com/virgilliopires/virgilliopires/blob/output/github-contribution-grid-snake.svg)
+  <!--[Snake animation](https://github.com/virgilliopires/virgilliopires/blob/output/github-contribution-grid-snake.svg)-->
   
 </div>
