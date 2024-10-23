@@ -1,6 +1,9 @@
-### Olá, meu nome é Virgíllio Pires e sou um BackEnd Developer.
-
-### Bem-vindo(a) ao meu perfil no Github!
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0000FF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hello!+my+name+is+Virgillio+Pires+and+I+am+a+Back+End+Developer+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0000FF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a> 
+</div>
 
 <div>
   <a href="https://github.com/virgilliopires">
