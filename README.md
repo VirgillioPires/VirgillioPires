@@ -20,7 +20,7 @@
   <img align="center" alt="Virgilio-Heroku" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"> 
   <img align="center" alt="Virgilio-Tomcat" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg">
   <img align="center" alt="Virgilio-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Virgilio-Gradle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg">
+  <img align="center" alt="Virgilio-Gradle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg">
   <img align="center" alt="Virgilio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">    
   <img align="center" alt="Virgilio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
   <img align="center" alt="Virgilio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
