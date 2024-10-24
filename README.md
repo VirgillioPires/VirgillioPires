@@ -8,6 +8,7 @@
 </div>
 
 <div>
+  <h3>* Github Stats *</h3>
   <a href="https://github.com/virgilliopires">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virgilliopires&layout=compact&langs_count=7&theme=react"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=virgilliopires&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
@@ -42,23 +43,10 @@
     <img alingn="center" src="https://profile-counter.glitch.me/virgilliopires/count.svg" /></p>
   </br>
 </div>
-#
 
-<div style="text-align: center"; align="center">
-  <h3>* Github Stats *</h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=virgilliopires_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=0000FF&text_color=0000FF&border_color=0000FF&icon_color=0000FF&theme=virgillio" alt="Github stats">
-
-  <a href="https://github.com/virgilliopires/github-readme-stats">
-    <img="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=virgilliopires_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=0000FF&hide=html,scss,less&bg_color=0000FF&border_radius=3&border_color=0000FF&count_private=true" alt="Most Used Languages">
-  </a>
-</div>
-
-#
-
-<picture align="center"
+<-- <picture align="center"
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/virgilliopires/output/github-contribution-grid-snake-dark.svg)">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/virgilliopires/output/github-contribution-grid-snake-light.svg)">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/virgilliopires/output/github-contribution-grid-snake.svg)">
-</picture>
+</picture> -->
 
